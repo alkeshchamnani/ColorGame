@@ -1,4 +1,4 @@
-package com.example.colorgame
+package com.alkesh.ecommerce
 
 import org.junit.Test
 
